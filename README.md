@@ -1,39 +1,11 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-# Assignment Name (Ruby String Lab)
+# Challenge: Hamming Distance
 
-## Objectives
+Calculating [Hamming Distance](http://en.wikipedia.org/wiki/Hamming_distance) is a great problem to practice string manipulation.
 
-By the end of this, students should be able to:
+Write a method called `hamming_distance` that takes two strings as arguments, and returns the hamming distance as an integer.
 
-- Objective 1
-- Objective 2
-- Objective 3
+There are tests in the spec folder that you can use to check your work. Run these tests with `rspec spec`. When you're done, make a pull request so that others can compare their solutions against yours.
 
-## Instructions
-
-Include explict step-by-step instructions about the goals of the assignment, and how to run the code.
-
-Make sure to wrap section of code in appropriate markdown like `ls -al`, and denote the language as below for longer sections:
-
-```ruby
-x = 2
-y = 3
-puts x + y
-```
-
-## Bonus (Optional Section)
-
-If you're looking for extra challenge or practice once you've completed the above, try to...
-
-## Notes
-
-Gotcha's and extra information
-
-## Additional Resources
-
-List additional related resources such as videos, blog posts and official documentation.
-
-- Item 1
-- Item 2
-- Item 3
+Attempt to not find Ruby code online that solves this problem (code in other languages as an example is ok). The Wikipedia article will be very helpful.
